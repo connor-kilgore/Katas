@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/prime-factors-kata.iml" filepath="$PROJECT_DIR$/prime-factors-kata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prime-factors.iml" filepath="$PROJECT_DIR$/prime-factors.iml" />
     </modules>
   </component>
 </project>
